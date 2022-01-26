@@ -21,7 +21,7 @@ I am from Electrical and my CGPA is 10.000000
 224
 40
 14
-2
+0
 enter your first number:6
 enter your second number:7
 enter your third number:8
